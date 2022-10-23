@@ -1,0 +1,794 @@
+[
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_family_grandfather.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\family_grandfather.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_color_white.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\color_white.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_number_six.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\number_six.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_family_father.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\family_father.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_phrase_yes_im_coming.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\phrase_yes_im_coming.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_family_daughter.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\family_daughter.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_number_seven.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\number_seven.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_numbers.xml.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\layout\\activity_numbers.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_number_one.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\number_one.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_family_son.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\family_son.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_number_one.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\number_one.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_family_mother.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\family_mother.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_phrase_im_coming.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\phrase_im_coming.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_family_younger_sister.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\family_younger_sister.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_color_gray.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\color_gray.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_three.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\number_three.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_color_dusty_yellow.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\color_dusty_yellow.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_color_green.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\color_green.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_family_older_brother.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\family_older_brother.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_number_three.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\number_three.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_number_six.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\number_six.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_family_grandmother.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\family_grandmother.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_number_five.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\number_five.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_number_eight.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\number_eight.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_family_younger_brother.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\family_younger_brother.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_family_daughter.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\family_daughter.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_family_older_sister.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\family_older_sister.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_color_brown.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\color_brown.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_number_four.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\number_four.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_number_eight.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\number_eight.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_family_older_sister.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\family_older_sister.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_color_mustard_yellow.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\color_mustard_yellow.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_color_green.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\color_green.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_color_black.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\color_black.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_color_gray.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\color_gray.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_family_mother.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\family_mother.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_color_white.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\color_white.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_number_nine.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\number_nine.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_family_son.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\family_son.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_family_grandfather.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\family_grandfather.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_family_older_brother.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\family_older_brother.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_number_seven.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\number_seven.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_family_older_sister.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\family_older_sister.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_number_nine.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\number_nine.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_family_grandfather.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\family_grandfather.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_number_five.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\number_five.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_color_white.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\color_white.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_color_red.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\color_red.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_ten.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\number_ten.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_number_ten.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\number_ten.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_color_brown.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\color_brown.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_color_brown.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\color_brown.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_number_ten.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\number_ten.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_color_brown.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\color_brown.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_number_ten.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\number_ten.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_phrase_where_are_you_going.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\phrase_where_are_you_going.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_family_mother.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\family_mother.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_family_older_sister.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\family_older_sister.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_family_father.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\family_father.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_five.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\number_five.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_family_father.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\family_father.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_family_grandmother.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\family_grandmother.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_family_younger_sister.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\family_younger_sister.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_number_five.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\number_five.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_family_younger_sister.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\family_younger_sister.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_family_father.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\family_father.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_color_mustard_yellow.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\color_mustard_yellow.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_family_son.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\family_son.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_number_seven.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\number_seven.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_number_ten.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\number_ten.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_color_black.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\color_black.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_family_older_sister.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\family_older_sister.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_color_green.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\color_green.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_six.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\number_six.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_number_five.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\number_five.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_one.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\number_one.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_number_two.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\number_two.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_color_gray.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\color_gray.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_phrase_my_name_is.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\phrase_my_name_is.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_family_mother.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\family_mother.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_family_grandmother.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\family_grandmother.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_number_eight.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\number_eight.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_number_three.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\number_three.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_color_dusty_yellow.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\color_dusty_yellow.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_family_younger_sister.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\family_younger_sister.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_family_father.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\family_father.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_number_four.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\number_four.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_color_brown.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\color_brown.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_color_dusty_yellow.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\color_dusty_yellow.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_family_younger_sister.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\family_younger_sister.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_color_gray.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\color_gray.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_number_five.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\number_five.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_color_gray.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\color_gray.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_family_son.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\family_son.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_four.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\number_four.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_number_nine.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\number_nine.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_family_son.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\family_son.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_family_mother.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\family_mother.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_number_nine.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\number_nine.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_eight.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\number_eight.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_color_black.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\color_black.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_phrase_are_you_coming.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\phrase_are_you_coming.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_number_six.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\number_six.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_number_three.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\number_three.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_color_white.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\color_white.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_number_four.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\number_four.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_family_father.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\family_father.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_family_grandfather.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\family_grandfather.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_family_younger_sister.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\family_younger_sister.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_family_older_brother.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\family_older_brother.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_color_black.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\color_black.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_family_daughter.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\family_daughter.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_number_one.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\number_one.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_family_younger_brother.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\family_younger_brother.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_family_younger_brother.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\family_younger_brother.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_number_three.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\number_three.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_colors.xml.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\layout\\activity_colors.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_color_mustard_yellow.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\color_mustard_yellow.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_phrase_what_is_your_name.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\phrase_what_is_your_name.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_nine.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\number_nine.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_family_younger_brother.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\family_younger_brother.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_number_six.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\number_six.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_number_two.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\number_two.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_color_red.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\color_red.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_color_black.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\color_black.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_family_grandfather.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\family_grandfather.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_seven.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\number_seven.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_color_dusty_yellow.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\color_dusty_yellow.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_phrases.xml.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\layout\\activity_phrases.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_phrase_how_are_you_feeling.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\phrase_how_are_you_feeling.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_number_four.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\number_four.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_family_older_brother.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\family_older_brother.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_number_seven.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\number_seven.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_number_one.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\number_one.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_family.xml.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\layout\\activity_family.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_family_daughter.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\family_daughter.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_phrase_lets_go.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\phrase_lets_go.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_color_white.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\color_white.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_number_seven.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\number_seven.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_color_mustard_yellow.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\color_mustard_yellow.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_family_younger_brother.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\family_younger_brother.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_family_older_sister.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\family_older_sister.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_family_older_brother.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\family_older_brother.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_color_green.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\color_green.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_family_grandmother.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\family_grandmother.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_color_red.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\color_red.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_number_ten.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\number_ten.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_color_red.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\color_red.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_number_eight.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\number_eight.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_family_daughter.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\family_daughter.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_number_three.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\number_three.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_family_grandmother.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\family_grandmother.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_number_eight.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\number_eight.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_color_white.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\color_white.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_number_two.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\number_two.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_color_green.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\color_green.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_number_one.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\number_one.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_color_red.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\color_red.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_color_mustard_yellow.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\color_mustard_yellow.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_color_green.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\color_green.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_color_gray.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\color_gray.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_color_red.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\color_red.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_family_mother.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\family_mother.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_phrase_come_here.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\phrase_come_here.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_number_six.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxxhdpi\\number_six.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_phrase_im_feeling_good.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\phrase_im_feeling_good.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_family_grandfather.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\family_grandfather.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_number_two.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\number_two.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_family_younger_brother.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\family_younger_brother.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_number_two.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\number_two.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_family_son.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\family_son.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_number_four.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\number_four.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_color_dusty_yellow.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\color_dusty_yellow.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_number_nine.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\number_nine.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_family_daughter.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\family_daughter.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_family_grandmother.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\family_grandmother.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_color_brown.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-mdpi\\color_brown.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\raw_family_older_brother.mp3.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\raw\\family_older_brother.mp3"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_color_dusty_yellow.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\color_dusty_yellow.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_color_black.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xhdpi\\color_black.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_two.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-hdpi\\number_two.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\Miwok\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_color_mustard_yellow.png.flat",
+        "source": "D:\\Work\\Android Studio\\Miwok\\app\\src\\main\\res\\drawable-xxhdpi\\color_mustard_yellow.png"
+    }
+]
